@@ -3,9 +3,9 @@ package ginview
 import (
 	"net/http"
 
-	"github.com/foolin/goview"
-	"github.com/gin-gonic/gin"
-	"github.com/gin-gonic/gin/render"
+	"github.com/forthxu/goview"
+	"github.com/forthxu/gin"
+	"github.com/forthxu/gin/render"
 )
 
 const templateEngineKey = "foolin-goview-ginview"

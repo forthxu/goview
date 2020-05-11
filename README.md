@@ -2,6 +2,11 @@
 
 [![GoDoc Widget]][GoDoc] [![Travis Widget]][Travis] [![GoReportCard Widget]][GoReportCard] 
 
+## forthxu
+批量修改
+sed -i ""  "s/github.com\/gin-gonic\/gin/github.com\/forthxu\/gin/g" `find . -type f -name "*.go" | grep "github.com/gin-gonic/gin" -rl . | grep ".go"`
+sed -i ""  "s/github.com\/foolin\/goview/github.com\/forthxu\/goview/g" `find . -type f -name "*.go" | grep "github.com/foolin/goview" -rl . | grep ".go"`
+
 Goview is a lightweight, minimalist and idiomatic template library based on golang [html/template](https://golang.org/pkg/html/template/) for building Go web application.
 
 ## Contents

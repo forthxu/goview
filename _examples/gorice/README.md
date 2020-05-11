@@ -37,5 +37,5 @@ http://127.0.0.1:9090
 
 - [gin template](https://github.com/foolin/gin-template)
 - [gin-template support go.rice](https://github.com/foolin/gin-template/tree/master/supports/gorice)
-- [gin framework](https://github.com/gin-gonic/gin)
+- [gin framework](https://github.com/forthxu/gin)
 - [go.rice](https://github.com/GeertJohan/go.rice)

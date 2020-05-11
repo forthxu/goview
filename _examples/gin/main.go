@@ -9,8 +9,8 @@
 package main
 
 import (
-	"github.com/foolin/goview/supports/ginview"
-	"github.com/gin-gonic/gin"
+	"github.com/forthxu/goview/supports/ginview"
+	"github.com/forthxu/gin"
 	"net/http"
 )
 

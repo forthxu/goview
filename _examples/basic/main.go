@@ -10,7 +10,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/foolin/goview"
+	"github.com/forthxu/goview"
 	"net/http"
 )
 

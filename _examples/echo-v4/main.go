@@ -9,7 +9,7 @@
 package main
 
 import (
-	"github.com/foolin/goview/supports/echoview-v4"
+	"github.com/forthxu/goview/supports/echoview-v4"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 	"net/http"

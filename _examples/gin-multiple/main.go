@@ -9,9 +9,9 @@
 package main
 
 import (
-	"github.com/foolin/goview"
-	"github.com/foolin/goview/supports/ginview"
-	"github.com/gin-gonic/gin"
+	"github.com/forthxu/goview"
+	"github.com/forthxu/goview/supports/ginview"
+	"github.com/forthxu/gin"
 	"html/template"
 	"net/http"
 	"time"

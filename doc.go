@@ -7,7 +7,7 @@
 //
 //	import (
 //		"fmt"
-//		"github.com/foolin/goview"
+//		"github.com/forthxu/goview"
 //		"net/http"
 //	)
 //
@@ -50,21 +50,21 @@
 //		   |--- footer.html
 //		   |--- master.html
 //
-//Learn more at https://github.com/foolin/goview
+//Learn more at https://github.com/forthxu/goview
 //
 //
 //
 //================== Supports ==================
 //
 //Ginview for Gin framework:
-//https://godoc.org/github.com/foolin/goview/supports/ginview
+//https://godoc.org/github.com/forthxu/goview/supports/ginview
 //
 //Echoview for Echo framework:
-//https://godoc.org/github.com/foolin/goview/supports/echoview
+//https://godoc.org/github.com/forthxu/goview/supports/echoview
 //
 //Gorice for Go.rice:
-//https://godoc.org/github.com/foolin/goview/supports/gorice
+//https://godoc.org/github.com/forthxu/goview/supports/gorice
 //
 //Examples:
-//https://github.com/foolin/goview/_examples
+//https://github.com/forthxu/goview/_examples
 package goview

@@ -9,8 +9,8 @@
 package main
 
 import (
-	"github.com/foolin/goview"
-	"github.com/foolin/goview/supports/echoview"
+	"github.com/forthxu/goview"
+	"github.com/forthxu/goview/supports/echoview"
 	"html/template"
 	"net/http"
 	"time"
